@@ -1,6 +1,8 @@
 # Airbnb Seattle Analysis
 
-This repository contains a Jupyter Notebook where the Airbnb data for Seattle has been analyzed.
+This repository contains a Jupyter Notebook where the Airbnb data for Seattle has been analyzed. A blogpost on the same subject can be found here:
+
+https://medium.com/@qiragg/if-you-are-planning-to-airbnb-in-seattle-here-are-some-things-you-should-know-3ccc2955a239
 
 ## 1. Installations
 
